@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and dependency folders
+.venv/
+env/
+venv/
+.conda/
+env.bak*/
+
+# Backup vault and simulation files
+wicket_backups/
+*.bak
+*.bak.py
+
+# Virtual/interactive and notebook files
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Coverage/test/build
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+coverage.*
+htmlcov/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Git (should never be Versioned)
+.git/

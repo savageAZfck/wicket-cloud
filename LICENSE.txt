@@ -1,0 +1,9 @@
+Copyright © 2026 Adam Clark
+
+All rights reserved. This software, including all associated code, documents, configurations, and data, is the exclusive intellectual property of the author.
+
+No part of this software or accompanying materials may be used, reproduced, copied, modified, merged, published, distributed, sublicensed, or sold, in any form or by any means, without the express, prior, written permission of Adam Clark.
+
+Unauthorized use, disclosure, or distribution is strictly prohibited and may result in civil and criminal penalties.
+
+For licensing, pilots, enterprise purchases, or consulting, contact: savagetism@icloud.com
